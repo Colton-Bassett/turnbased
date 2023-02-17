@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-turnbased-dev-155646-authRole",
+      "UnauthRoleArn": "arn:aws:iam::537164628494:role/amplify-turnbased-dev-155646-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::537164628494:role/amplify-turnbased-dev-155646-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-turnbased-dev-155646-deployment",
+      "UnauthRoleName": "amplify-turnbased-dev-155646-unauthRole",
+      "StackName": "amplify-turnbased-dev-155646",
+      "StackId": "arn:aws:cloudformation:us-east-2:537164628494:stack/amplify-turnbased-dev-155646/9367f3f0-ae55-11ed-a445-0a5b55510948",
+      "AmplifyAppId": "d267sf2isn19vc"
+    }
+  }
+}
